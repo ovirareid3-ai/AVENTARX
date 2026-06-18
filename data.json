@@ -1,0 +1,25 @@
+{
+  "users": {
+    "AVENTAR": {
+      "password": "VPS",
+      "role": "admin",
+      "created": "2026-06-18 14:04:05.626944"
+    }
+  },
+  "projects": {
+    "4d9beb51": {
+      "id": "4d9beb51",
+      "name": "AVENTAR",
+      "command": "python main.py",
+      "status": "stopped",
+      "files": [],
+      "packages": [],
+      "port": 8080,
+      "created": "2026-06-18 14:10:01.551868",
+      "main_file": "main.py"
+    }
+  },
+  "system_logs": [],
+  "maintenance": false,
+  "site_name": "\ud835\udc00\ud835\udc15\ud835\udc04\ud835\udc0d\ud835\udc13\ud835\udc00\ud835\udc11 \ud835\udc15\ud835\udc0f\ud835\udc12"
+}
